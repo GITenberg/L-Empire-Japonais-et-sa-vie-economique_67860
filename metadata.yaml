@@ -1,5 +1,8 @@
 _repo: L-Empire-Japonais-et-sa-vie-economique_67860
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67860-h/images/cover.jpg
 creator:
   author:
     agent_name: Dautremer, Joseph
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54139
     wikipedia: https://fr.wikipedia.org/wiki/Joseph_Dautremer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67860#L-Empire-Japonais-et-sa-vie-economique
 gutenberg_issued: '2022-04-18'
 identifiers:
   gutenberg: '67860'
